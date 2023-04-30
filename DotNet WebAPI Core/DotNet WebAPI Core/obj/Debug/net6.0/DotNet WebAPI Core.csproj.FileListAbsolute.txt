@@ -1,0 +1,27 @@
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\DotNet WebAPI Core.exe
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\DotNet WebAPI Core.deps.json
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\DotNet WebAPI Core.runtimeconfig.json
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\DotNet WebAPI Core.dll
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\DotNet WebAPI Core.pdb
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\scopedcss\bundle\DotNet WebAPI Core.styles.css
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.dll
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\refint\DotNet WebAPI Core.dll
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.pdb
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\DotNet WebAPI Core.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\dotnet webapi\Repo\WebAPI\DotNet WebAPI Core\DotNet WebAPI Core\obj\Debug\net6.0\ref\DotNet WebAPI Core.dll
